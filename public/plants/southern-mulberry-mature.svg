@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <ellipse cx="200" cy="390" rx="120" ry="8" fill="rgba(40, 50, 35, 0.12)"/>
+  <path d="M 188 388 Q 196 270 194 152 L 206 152 Q 208 270 216 388 Z" fill="#7a5636"/>
+  <circle cx="257.3" cy="144.1" r="40.9" fill="#54855c"/>
+  <circle cx="192.4" cy="163.7" r="41.8" fill="#54855c"/>
+  <circle cx="138.3" cy="137.6" r="63.7" fill="#54855c"/>
+  <circle cx="141.7" cy="113.2" r="41.8" fill="#6b9159"/>
+  <circle cx="176" cy="94.6" r="48.6" fill="#6b9159"/>
+  <circle cx="232" cy="96.8" r="40.2" fill="#6b9159"/>
+  <circle cx="231.7" cy="117.1" r="3.5" fill="#ec9bbf" opacity="0.9"/>
+  <circle cx="147.2" cy="83.9" r="3.5" fill="#ec9bbf" opacity="0.9"/>
+  <circle cx="158.4" cy="102.1" r="3.5" fill="#ec9bbf" opacity="0.9"/>
+  <circle cx="212.6" cy="136.1" r="3.5" fill="#ec9bbf" opacity="0.9"/>
+  <circle cx="124" cy="116.3" r="3.5" fill="#ec9bbf" opacity="0.9"/>
+  <circle cx="198.4" cy="84.3" r="3.5" fill="#ec9bbf" opacity="0.9"/>
+  <circle cx="202" cy="167.4" r="3.5" fill="#ec9bbf" opacity="0.9"/>
+  <circle cx="243.8" cy="174.7" r="3.5" fill="#ec9bbf" opacity="0.9"/>
+  <circle cx="138.8" cy="135.9" r="3.5" fill="#ec9bbf" opacity="0.9"/>
+  <circle cx="173.6" cy="90.9" r="3.5" fill="#ec9bbf" opacity="0.9"/>
+  <circle cx="237.5" cy="86.1" r="3.5" fill="#ec9bbf" opacity="0.9"/>
+  <circle cx="281.9" cy="90.4" r="3.5" fill="#ec9bbf" opacity="0.9"/>
+  <circle cx="126.4" cy="166.6" r="3.5" fill="#ec9bbf" opacity="0.9"/>
+  <circle cx="158.7" cy="89.6" r="3.5" fill="#ec9bbf" opacity="0.9"/>
+</svg>

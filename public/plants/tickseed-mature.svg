@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <ellipse cx="200" cy="390" rx="120" ry="8" fill="rgba(40, 50, 35, 0.12)"/>
+  <line x1="140" y1="388" x2="120" y2="231.7" stroke="#4a7a52" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="124" cy="309.9" rx="10" ry="5" fill="#6b9159" transform="rotate(-30.1 124 309.9)"/>
+  <circle cx="120" cy="231.7" r="12" fill="#ec9bbf" opacity="0.55"/>
+  <circle cx="120" cy="231.7" r="7" fill="#ec9bbf"/>
+  <circle cx="120" cy="231.7" r="2.5" fill="#6b4a2f"/>
+  <line x1="170" y1="388" x2="160" y2="221.5" stroke="#4a7a52" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="160" cy="221.5" r="12" fill="#ec9bbf" opacity="0.55"/>
+  <circle cx="160" cy="221.5" r="7" fill="#ec9bbf"/>
+  <circle cx="160" cy="221.5" r="2.5" fill="#6b4a2f"/>
+  <line x1="200" y1="388" x2="200" y2="221.4" stroke="#4a7a52" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="194" cy="304.7" rx="10" ry="5" fill="#3d6b45" transform="rotate(-21 194 304.7)"/>
+  <circle cx="200" cy="221.4" r="12" fill="#ec9bbf" opacity="0.55"/>
+  <circle cx="200" cy="221.4" r="7" fill="#ec9bbf"/>
+  <circle cx="200" cy="221.4" r="2.5" fill="#6b4a2f"/>
+  <line x1="230" y1="388" x2="240" y2="150.8" stroke="#4a7a52" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="240" cy="150.8" r="12" fill="#ec9bbf" opacity="0.55"/>
+  <circle cx="240" cy="150.8" r="7" fill="#ec9bbf"/>
+  <circle cx="240" cy="150.8" r="2.5" fill="#6b4a2f"/>
+  <line x1="260" y1="388" x2="280" y2="213.1" stroke="#4a7a52" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="264" cy="300.6" rx="10" ry="5" fill="#6b9159" transform="rotate(6.1 264 300.6)"/>
+  <circle cx="280" cy="213.1" r="12" fill="#ec9bbf" opacity="0.55"/>
+  <circle cx="280" cy="213.1" r="7" fill="#ec9bbf"/>
+  <circle cx="280" cy="213.1" r="2.5" fill="#6b4a2f"/>
+</svg>

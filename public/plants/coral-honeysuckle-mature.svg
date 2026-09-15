@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 680" width="400" height="680">
+  <ellipse cx="200" cy="670" rx="120" ry="8" fill="rgba(40, 50, 35, 0.12)"/>
+  <ellipse cx="112" cy="435.2" rx="46.8" ry="73.4" fill="#2f5c3a"/>
+  <ellipse cx="156" cy="421.6" rx="46.5" ry="80.3" fill="#6b9159"/>
+  <ellipse cx="200" cy="408" rx="55.9" ry="81.7" fill="#587e46"/>
+  <ellipse cx="244" cy="421.6" rx="50.5" ry="92.9" fill="#2f5c3a"/>
+  <ellipse cx="288" cy="435.2" rx="49.6" ry="77.4" fill="#3d6b45"/>
+  <path d="M 80 408 q -56.00000000000001 68 -80 163.2" stroke="#587e46" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M 320 408 q 56.00000000000001 68 80 163.2" stroke="#587e46" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <circle cx="271.1" cy="383.7" r="4.5" fill="#ec9bbf" opacity="0.95"/>
+  <circle cx="143.9" cy="377.3" r="4.5" fill="#ec9bbf" opacity="0.95"/>
+  <circle cx="227.1" cy="399.1" r="4.5" fill="#ec9bbf" opacity="0.95"/>
+  <circle cx="222.8" cy="449.2" r="4.5" fill="#ec9bbf" opacity="0.95"/>
+  <circle cx="123.5" cy="346.1" r="4.5" fill="#ec9bbf" opacity="0.95"/>
+  <circle cx="269.1" cy="431.6" r="4.5" fill="#ec9bbf" opacity="0.95"/>
+  <circle cx="201.8" cy="351.5" r="4.5" fill="#ec9bbf" opacity="0.95"/>
+  <circle cx="159.4" cy="470.8" r="4.5" fill="#ec9bbf" opacity="0.95"/>
+</svg>

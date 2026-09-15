@@ -1,0 +1,7 @@
+{
+  "plantCategories": ["native", "edible", "ornamental", "material", "water"],
+  "plantForms": ["tree", "shrub", "palm", "grass", "groundcover", "vine", "herb"],
+  "sunExposures": ["full", "part", "shade"],
+  "soilTextures": ["sand", "loam", "clay"],
+  "soilMoistures": ["dry", "moist", "wet"]
+}

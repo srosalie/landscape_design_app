@@ -1,0 +1,12 @@
+node_modules
+dist
+dist-ssr
+coverage
+*.local
+
+logs
+*.log
+npm-debug.log*
+
+.DS_Store
+Thumbs.db
