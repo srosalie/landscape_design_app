@@ -69,8 +69,6 @@ tolerance, germination temperature, notes, tags, and an open `attributes` bag.
 
 ## Architecture
 
-# **TODO: change 'repositories' to 'stores'- less confusing
-
 ```
 src/
 ├── core/            React-free, mobile-extractable
@@ -96,8 +94,6 @@ Design notes:
   only downloads on first open.
 
 ## Extending
-
-# **TODO: 'React-free'?
 
 See `AGENTS.md` for the detailed recipes. Highlights:
 
